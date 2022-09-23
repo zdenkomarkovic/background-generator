@@ -1,1 +1,1 @@
-# background-generator/ README.md
+README.md
